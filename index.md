@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+RTL零售版指的是官方出售的版本，只能鸡活一台电脑，享受售后技术服务！
+VOL Edition(批量授权版)指的是针对企业客户的大批量采购的版本，可用MARK密钥永久鸡活 
+简单的说，零售如果不封，可以一直使用。
+批量授权版(也称大客户版，缩写VOL或VL)可以在网上找MARK，一旦鸡活成功，不怕被封；也可以用KMS进行180天激活。 
+这两个版本功能上并无区别，只是激活的方式不一样。
 
-You can use the [editor on GitHub](https://github.com/SevierYang/sevieryang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+先转批量，然后鸡活，不要用线上
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SevierYang/sevieryang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20210129103752158.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQyNDQyMzY5,size_16,color_FFFFFF,t_70)
